@@ -101,7 +101,7 @@
   - Description of projects or responsibilities. -->
 
 ## 📝 Blog Posts
-- Hashnode : [Click Here](https://yourblog.com/post2) 
+- Hashnode : [Click Here](https://hashnode.com/@gauravms) 
 - Medium : [Click Here]()
 
 ## 🎓 Education
