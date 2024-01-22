@@ -2,7 +2,7 @@
 
 #### I'm Enthusiastically exploring the vast realm of open source technology, eager to leverage its potential in my projects and contribute to the developer community.
 
-- 🌱 I’m currently learning Angular, web security.
+- 🌱 I’m currently learning Next.js,React, web security.
 - 👯 I believe in working collaboratively as a team.
 
 ## 🚀 Technologies
